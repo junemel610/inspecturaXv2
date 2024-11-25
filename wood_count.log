@@ -1,0 +1,508 @@
+2024-11-26 06:13:15,550 - Initialization successful.
+2024-11-26 06:13:15,550 - Camera now open.
+2024-11-26 06:13:15,553 - Camera configuration has been adjusted!
+2024-11-26 06:13:15,554 - Configuration successful!
+2024-11-26 06:13:15,696 - Camera started
+2024-11-26 06:13:15,709 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:13:15,709 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:13:15,861 - Wood counted: 1
+2024-11-26 06:13:18,866 - Wood counted: 2
+2024-11-26 06:13:21,871 - Wood counted: 3
+2024-11-26 06:13:24,876 - Wood counted: 4
+2024-11-26 06:13:27,879 - Wood counted: 5
+2024-11-26 06:13:30,882 - Wood counted: 6
+2024-11-26 06:13:33,884 - Wood counted: 7
+2024-11-26 06:13:36,891 - Wood counted: 8
+2024-11-26 06:13:39,894 - Wood counted: 9
+2024-11-26 06:13:42,896 - Wood counted: 10
+2024-11-26 06:13:45,899 - Wood counted: 11
+2024-11-26 06:13:48,902 - Wood counted: 12
+2024-11-26 06:13:51,849 - 127.0.0.1 - - [26/Nov/2024 06:13:51] "GET / HTTP/1.1" 200 -
+2024-11-26 06:13:51,980 - Wood counted: 13
+2024-11-26 06:13:55,049 - Wood counted: 14
+2024-11-26 06:13:58,053 - Wood counted: 15
+2024-11-26 06:14:01,056 - Wood counted: 16
+2024-11-26 06:14:04,058 - Wood counted: 17
+2024-11-26 06:14:07,062 - Wood counted: 18
+2024-11-26 06:14:10,064 - Wood counted: 19
+2024-11-26 06:14:13,069 - Wood counted: 20
+2024-11-26 06:14:16,073 - Wood counted: 21
+2024-11-26 06:14:19,077 - Wood counted: 22
+2024-11-26 06:14:22,080 - Wood counted: 23
+2024-11-26 06:14:25,084 - Wood counted: 24
+2024-11-26 06:14:28,087 - Wood counted: 25
+2024-11-26 06:14:31,089 - Wood counted: 26
+2024-11-26 06:14:34,091 - Wood counted: 27
+2024-11-26 06:14:37,094 - Wood counted: 28
+2024-11-26 06:14:40,097 - Wood counted: 29
+2024-11-26 06:14:43,100 - Wood counted: 30
+2024-11-26 06:14:46,104 - Wood counted: 31
+2024-11-26 06:14:49,107 - Wood counted: 32
+2024-11-26 06:14:52,109 - Wood counted: 33
+2024-11-26 06:14:55,113 - Wood counted: 34
+2024-11-26 06:14:58,115 - Wood counted: 35
+2024-11-26 06:15:01,118 - Wood counted: 36
+2024-11-26 06:15:04,120 - Wood counted: 37
+2024-11-26 06:15:07,126 - Wood counted: 38
+2024-11-26 06:15:10,129 - Wood counted: 39
+2024-11-26 06:15:13,132 - Wood counted: 40
+2024-11-26 06:15:16,136 - Wood counted: 41
+2024-11-26 06:15:19,141 - Wood counted: 42
+2024-11-26 06:15:22,144 - Wood counted: 43
+2024-11-26 06:15:25,146 - Wood counted: 44
+2024-11-26 06:15:28,149 - Wood counted: 45
+2024-11-26 06:15:31,156 - Wood counted: 46
+2024-11-26 06:15:34,158 - Wood counted: 47
+2024-11-26 06:15:37,163 - Wood counted: 48
+2024-11-26 06:15:40,167 - Wood counted: 49
+2024-11-26 06:15:43,171 - Wood counted: 50
+2024-11-26 06:15:46,174 - Wood counted: 51
+2024-11-26 06:15:49,177 - Wood counted: 52
+2024-11-26 06:15:52,182 - Wood counted: 53
+2024-11-26 06:15:55,184 - Wood counted: 54
+2024-11-26 06:15:58,187 - Wood counted: 55
+2024-11-26 06:16:01,189 - Wood counted: 56
+2024-11-26 06:16:04,194 - Wood counted: 57
+2024-11-26 06:16:07,196 - Wood counted: 58
+2024-11-26 06:16:10,198 - Wood counted: 59
+2024-11-26 06:16:13,200 - Wood counted: 60
+2024-11-26 06:16:16,203 - Wood counted: 61
+2024-11-26 06:16:19,205 - Wood counted: 62
+2024-11-26 06:16:22,208 - Wood counted: 63
+2024-11-26 06:16:25,211 - Wood counted: 64
+2024-11-26 06:16:28,213 - Wood counted: 65
+2024-11-26 06:16:31,215 - Wood counted: 66
+2024-11-26 06:16:34,218 - Wood counted: 67
+2024-11-26 06:16:37,228 - Wood counted: 68
+2024-11-26 06:16:40,231 - Wood counted: 69
+2024-11-26 06:16:43,233 - Wood counted: 70
+2024-11-26 06:16:46,237 - Wood counted: 71
+2024-11-26 06:16:49,239 - Wood counted: 72
+2024-11-26 06:16:52,242 - Wood counted: 73
+2024-11-26 06:16:55,244 - Wood counted: 74
+2024-11-26 06:16:58,248 - Wood counted: 75
+2024-11-26 06:17:01,252 - Wood counted: 76
+2024-11-26 06:17:04,255 - Wood counted: 77
+2024-11-26 06:17:07,261 - Wood counted: 78
+2024-11-26 06:17:10,263 - Wood counted: 79
+2024-11-26 06:17:13,266 - Wood counted: 80
+2024-11-26 06:17:16,269 - Wood counted: 81
+2024-11-26 06:17:19,271 - Wood counted: 82
+2024-11-26 06:17:22,274 - Wood counted: 83
+2024-11-26 06:17:25,276 - Wood counted: 84
+2024-11-26 06:17:28,280 - Wood counted: 85
+2024-11-26 06:17:31,283 - Wood counted: 86
+2024-11-26 06:17:34,285 - Wood counted: 87
+2024-11-26 06:17:37,288 - Wood counted: 88
+2024-11-26 06:17:40,290 - Wood counted: 89
+2024-11-26 06:17:43,293 - Wood counted: 90
+2024-11-26 06:17:46,299 - Wood counted: 91
+2024-11-26 06:17:49,301 - Wood counted: 92
+2024-11-26 06:17:52,303 - Wood counted: 93
+2024-11-26 06:17:55,305 - Wood counted: 94
+2024-11-26 06:17:58,308 - Wood counted: 95
+2024-11-26 06:18:01,310 - Wood counted: 96
+2024-11-26 06:18:04,313 - Wood counted: 97
+2024-11-26 06:18:07,317 - Wood counted: 98
+2024-11-26 06:18:10,323 - Wood counted: 99
+2024-11-26 06:18:13,327 - Wood counted: 100
+2024-11-26 06:18:16,336 - Wood counted: 101
+2024-11-26 06:18:19,338 - Wood counted: 102
+2024-11-26 06:18:22,344 - Wood counted: 103
+2024-11-26 06:18:25,346 - Wood counted: 104
+2024-11-26 06:18:28,352 - Wood counted: 105
+2024-11-26 06:18:31,355 - Wood counted: 106
+2024-11-26 06:18:34,357 - Wood counted: 107
+2024-11-26 06:18:37,362 - Wood counted: 108
+2024-11-26 06:18:40,364 - Wood counted: 109
+2024-11-26 06:18:43,368 - Wood counted: 110
+2024-11-26 06:18:46,377 - Wood counted: 111
+2024-11-26 06:18:49,384 - Wood counted: 112
+2024-11-26 06:18:52,387 - Wood counted: 113
+2024-11-26 06:18:53,985 - Camera stopped
+2024-11-26 06:18:54,186 - Camera closed successfully.
+2024-11-26 06:19:43,016 - Initialization successful.
+2024-11-26 06:19:43,017 - Camera now open.
+2024-11-26 06:19:43,020 - Camera configuration has been adjusted!
+2024-11-26 06:19:43,021 - Configuration successful!
+2024-11-26 06:19:43,162 - Camera started
+2024-11-26 06:19:45,219 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:19:45,219 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:20:10,436 - 127.0.0.1 - - [26/Nov/2024 06:20:10] "GET / HTTP/1.1" 200 -
+2024-11-26 06:20:56,334 - Camera stopped
+2024-11-26 06:20:56,536 - Camera closed successfully.
+2024-11-26 06:21:09,382 - Initialization successful.
+2024-11-26 06:21:09,382 - Camera now open.
+2024-11-26 06:21:09,385 - Camera configuration has been adjusted!
+2024-11-26 06:21:09,385 - Configuration successful!
+2024-11-26 06:21:09,514 - Camera started
+2024-11-26 06:21:11,416 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:21:11,416 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:21:11,776 - 127.0.0.1 - - [26/Nov/2024 06:21:11] "GET / HTTP/1.1" 200 -
+2024-11-26 06:22:50,661 - Camera stopped
+2024-11-26 06:22:50,669 - Camera closed successfully.
+2024-11-26 06:29:03,116 - Initialization successful.
+2024-11-26 06:29:03,116 - Camera now open.
+2024-11-26 06:29:03,118 - Camera configuration has been adjusted!
+2024-11-26 06:29:03,119 - Configuration successful!
+2024-11-26 06:29:03,255 - Camera started
+2024-11-26 06:29:05,199 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:29:05,199 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:29:09,020 - Wood counted: 1 for wood piece Marrow_23_88 with defect Marrow
+2024-11-26 06:29:09,021 - Wood counted: 2 for wood piece Death_knot_370_150 with defect Death_knot
+2024-11-26 06:29:14,196 - Wood counted: 3 for wood piece Marrow_22_88 with defect Marrow
+2024-11-26 06:29:18,965 - 127.0.0.1 - - [26/Nov/2024 06:29:18] "GET / HTTP/1.1" 200 -
+2024-11-26 06:29:27,421 - Wood counted: 4 for wood piece Marrow_35_19 with defect Marrow
+2024-11-26 06:29:35,030 - Wood counted: 5 for wood piece Marrow_22_89 with defect Marrow
+2024-11-26 06:29:35,031 - Wood counted: 6 for wood piece Death_knot_359_149 with defect Death_knot
+2024-11-26 06:29:39,813 - Wood counted: 7 for wood piece Death_knot_359_150 with defect Death_knot
+2024-11-26 06:29:43,543 - Wood counted: 8 for wood piece Death_knot_358_150 with defect Death_knot
+2024-11-26 06:29:46,951 - Camera stopped
+2024-11-26 06:29:47,158 - Camera closed successfully.
+2024-11-26 06:30:20,836 - Initialization successful.
+2024-11-26 06:30:20,837 - Camera now open.
+2024-11-26 06:30:20,840 - Camera configuration has been adjusted!
+2024-11-26 06:30:20,842 - Configuration successful!
+2024-11-26 06:30:20,979 - Camera started
+2024-11-26 06:30:22,703 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:30:22,704 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:30:24,908 - Wood counted: 1 for wood piece Marrow_21_89 with defect Marrow
+2024-11-26 06:30:26,235 - 127.0.0.1 - - [26/Nov/2024 06:30:26] "GET / HTTP/1.1" 200 -
+2024-11-26 06:30:53,005 - Wood counted: 2 for wood piece Marrow_21_87 with defect Marrow
+2024-11-26 06:32:04,572 - Wood counted: 3 for wood piece resin_61_31 with defect resin
+2024-11-26 06:32:04,574 - Wood counted: 4 for wood piece Marrow_170_40 with defect Marrow
+2024-11-26 06:32:21,161 - Wood counted: 5 for wood piece Death_knot_34_26 with defect Death_knot
+2024-11-26 06:32:21,162 - Wood counted: 6 for wood piece resin_36_25 with defect resin
+2024-11-26 06:32:24,615 - Camera stopped
+2024-11-26 06:32:24,817 - Camera closed successfully.
+2024-11-26 06:34:46,772 - Initialization successful.
+2024-11-26 06:34:46,772 - Camera now open.
+2024-11-26 06:34:46,775 - Camera configuration has been adjusted!
+2024-11-26 06:34:46,776 - Configuration successful!
+2024-11-26 06:34:46,910 - Camera started
+2024-11-26 06:34:48,895 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:34:48,895 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:34:51,045 - 127.0.0.1 - - [26/Nov/2024 06:34:51] "GET / HTTP/1.1" 200 -
+2024-11-26 06:34:56,619 - Wood counted: 1 for wood piece Marrow_42_88 with defect Marrow
+2024-11-26 06:35:11,433 - Wood counted: 2 for wood piece Death_knot_411_138 with defect Death_knot
+2024-11-26 06:35:16,127 - Wood counted: 3 for wood piece Death_knot_415_136 with defect Death_knot
+2024-11-26 06:36:16,691 - Camera stopped
+2024-11-26 06:36:16,898 - Camera closed successfully.
+2024-11-26 06:37:52,302 - Initialization successful.
+2024-11-26 06:37:52,302 - Camera now open.
+2024-11-26 06:37:52,304 - Camera configuration has been adjusted!
+2024-11-26 06:37:52,305 - Configuration successful!
+2024-11-26 06:37:52,450 - Camera started
+2024-11-26 06:37:54,245 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:37:54,246 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:37:56,970 - 127.0.0.1 - - [26/Nov/2024 06:37:56] "GET / HTTP/1.1" 200 -
+2024-11-26 06:38:40,145 - Wood counted: 1 for wood piece Death_knot_397_30 with defect Death_knot
+2024-11-26 06:39:26,175 - Camera stopped
+2024-11-26 06:39:26,376 - Camera closed successfully.
+2024-11-26 06:39:45,028 - Initialization successful.
+2024-11-26 06:39:45,029 - Camera now open.
+2024-11-26 06:39:45,031 - Camera configuration has been adjusted!
+2024-11-26 06:39:45,033 - Configuration successful!
+2024-11-26 06:39:45,164 - Camera started
+2024-11-26 06:39:47,189 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:39:47,190 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:39:50,912 - 127.0.0.1 - - [26/Nov/2024 06:39:50] "GET / HTTP/1.1" 200 -
+2024-11-26 06:39:55,105 - Wood counted: 1 for wood piece Death_knot_378_172 with defect Death_knot
+2024-11-26 06:40:53,949 - Wood counted: 2 for wood piece Death_knot_99_131 with defect Death_knot
+2024-11-26 06:40:58,541 - Wood counted: 3 for wood piece Death_knot_80_79 with defect Death_knot
+2024-11-26 06:41:03,492 - Wood counted: 4 for wood piece Death_knot_78_73 with defect Death_knot
+2024-11-26 06:41:03,494 - Wood counted: 5 for wood piece Death_knot_196_171 with defect Death_knot
+2024-11-26 06:41:24,034 - Wood counted: 6 for wood piece Live_knot_100_146 with defect Live_knot
+2024-11-26 06:41:34,925 - Wood counted: 7 for wood piece Live_knot_261_131 with defect Live_knot
+2024-11-26 06:41:56,147 - Wood counted: 8 for wood piece Live_knot_274_90 with defect Live_knot
+2024-11-26 06:41:59,829 - Wood counted: 9 for wood piece overgrown_243_90 with defect overgrown
+2024-11-26 06:42:08,480 - Wood counted: 10 for wood piece overgrown_404_155 with defect overgrown
+2024-11-26 06:42:12,789 - Camera stopped
+2024-11-26 06:42:12,996 - Camera closed successfully.
+2024-11-26 06:47:57,958 - Initialization successful.
+2024-11-26 06:47:57,958 - Camera now open.
+2024-11-26 06:47:57,960 - Camera configuration has been adjusted!
+2024-11-26 06:47:57,961 - Configuration successful!
+2024-11-26 06:47:58,093 - Camera started
+2024-11-26 06:48:00,096 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:48:00,097 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:48:05,141 - 127.0.0.1 - - [26/Nov/2024 06:48:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-26 06:48:05,304 - 127.0.0.1 - - [26/Nov/2024 06:48:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-26 06:48:05,499 - Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 324, in execute
+    for data in application_iter:
+  File "/usr/lib/python3/dist-packages/werkzeug/wsgi.py", line 500, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/werkzeug/wrappers/response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "/home/inspectura/Desktop/inspecturaX-main/raspi.py", line 172, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-26 06:48:06,321 - 127.0.0.1 - - [26/Nov/2024 06:48:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-26 06:48:06,322 - Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 324, in execute
+    for data in application_iter:
+  File "/usr/lib/python3/dist-packages/werkzeug/wsgi.py", line 500, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/werkzeug/wrappers/response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "/home/inspectura/Desktop/inspecturaX-main/raspi.py", line 172, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-26 06:48:11,993 - 127.0.0.1 - - [26/Nov/2024 06:48:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-26 06:48:11,994 - Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 324, in execute
+    for data in application_iter:
+  File "/usr/lib/python3/dist-packages/werkzeug/wsgi.py", line 500, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/werkzeug/wrappers/response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "/home/inspectura/Desktop/inspecturaX-main/raspi.py", line 172, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-26 06:48:13,138 - 127.0.0.1 - - [26/Nov/2024 06:48:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-26 06:48:13,139 - Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python3/dist-packages/werkzeug/serving.py", line 324, in execute
+    for data in application_iter:
+  File "/usr/lib/python3/dist-packages/werkzeug/wsgi.py", line 500, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/werkzeug/wrappers/response.py", line 50, in _iter_encoded
+    for item in iterable:
+  File "/home/inspectura/Desktop/inspecturaX-main/raspi.py", line 172, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-26 06:48:42,287 - Camera stopped
+2024-11-26 06:48:42,489 - Camera closed successfully.
+2024-11-26 06:54:02,248 - Initialization successful.
+2024-11-26 06:54:02,248 - Camera now open.
+2024-11-26 06:54:02,251 - Camera configuration has been adjusted!
+2024-11-26 06:54:02,251 - Configuration successful!
+2024-11-26 06:54:02,380 - Camera started
+2024-11-26 06:54:04,590 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 06:54:04,591 - [33mPress CTRL+C to quit[0m
+2024-11-26 06:54:07,820 - Wood counted: 1 for wood piece Live_knot_432_147 with defect Marrow
+2024-11-26 06:54:08,023 - 127.0.0.1 - - [26/Nov/2024 06:54:08] "GET / HTTP/1.1" 200 -
+2024-11-26 06:55:35,269 - Camera stopped
+2024-11-26 06:55:35,472 - Camera closed successfully.
+2024-11-26 06:56:59,890 - Initialization successful.
+2024-11-26 06:56:59,890 - Camera now open.
+2024-11-26 06:56:59,892 - Camera configuration has been adjusted!
+2024-11-26 06:56:59,893 - Configuration successful!
+2024-11-26 06:57:00,290 - Camera closed successfully.
+2024-11-26 06:57:31,344 - Initialization successful.
+2024-11-26 06:57:31,345 - Camera now open.
+2024-11-26 06:57:31,347 - Camera configuration has been adjusted!
+2024-11-26 06:57:31,348 - Configuration successful!
+2024-11-26 06:57:31,746 - Camera closed successfully.
+2024-11-26 06:58:22,938 - Initialization successful.
+2024-11-26 06:58:22,938 - Camera now open.
+2024-11-26 06:58:22,940 - Camera configuration has been adjusted!
+2024-11-26 06:58:22,941 - Configuration successful!
+2024-11-26 06:58:23,139 - Camera closed successfully.
+2024-11-26 07:00:27,842 - Initialization successful.
+2024-11-26 07:00:27,842 - Camera now open.
+2024-11-26 07:00:27,845 - Camera configuration has been adjusted!
+2024-11-26 07:00:27,846 - Configuration successful!
+2024-11-26 07:00:29,358 - No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2024-11-26 07:00:32,205 - Camera started
+2024-11-26 07:00:34,719 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:00:34,719 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:00:45,280 - 127.0.0.1 - - [26/Nov/2024 07:00:45] "GET / HTTP/1.1" 200 -
+2024-11-26 07:01:04,742 - Camera stopped
+2024-11-26 07:01:04,812 - Camera closed successfully.
+2024-11-26 07:01:22,159 - Initialization successful.
+2024-11-26 07:01:22,160 - Camera now open.
+2024-11-26 07:01:22,162 - Camera configuration has been adjusted!
+2024-11-26 07:01:22,164 - Configuration successful!
+2024-11-26 07:01:22,308 - Camera started
+2024-11-26 07:01:24,806 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:01:24,806 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:01:26,799 - 127.0.0.1 - - [26/Nov/2024 07:01:26] "GET / HTTP/1.1" 200 -
+2024-11-26 07:01:30,913 - Wood counted: 1 for wood piece overgrown_419_44 with defect Resin
+2024-11-26 07:02:04,084 - Wood counted: 2 for wood piece overgrown_418_160 with defect Resin
+2024-11-26 07:02:25,483 - Wood counted: 3 for wood piece overgrown_254_19 with defect Resin
+2024-11-26 07:02:25,484 - Wood counted: 4 for wood piece Death_knot_241_54 with defect Knot Missing
+2024-11-26 07:03:02,370 - Wood counted: 5 for wood piece overgrown_438_160 with defect Resin
+2024-11-26 07:03:11,969 - Wood counted: 6 for wood piece Death_knot_40_172 with defect Knot Missing
+2024-11-26 07:03:11,969 - Wood counted: 7 for wood piece Live_knot_30_73 with defect Marrow
+2024-11-26 07:03:16,831 - Wood counted: 8 for wood piece Live_knot_40_59 with defect Marrow
+2024-11-26 07:03:16,831 - Wood counted: 9 for wood piece overgrown_128_112 with defect Resin
+2024-11-26 07:03:16,832 - Wood counted: 10 for wood piece Live_knot_37_153 with defect Marrow
+2024-11-26 07:03:22,767 - Wood counted: 11 for wood piece Live_knot_52_46 with defect Marrow
+2024-11-26 07:03:22,769 - Wood counted: 12 for wood piece Live_knot_55_143 with defect Marrow
+2024-11-26 07:03:32,668 - Wood counted: 13 for wood piece Death_knot_69_169 with defect Knot Missing
+2024-11-26 07:03:32,669 - Wood counted: 14 for wood piece Live_knot_65_81 with defect Marrow
+2024-11-26 07:03:37,378 - Wood counted: 15 for wood piece Live_knot_106_48 with defect Marrow
+2024-11-26 07:03:37,379 - Wood counted: 16 for wood piece Live_knot_101_127 with defect Marrow
+2024-11-26 07:03:41,746 - Camera stopped
+2024-11-26 07:03:41,952 - Camera closed successfully.
+2024-11-26 07:04:17,298 - Initialization successful.
+2024-11-26 07:04:17,298 - Camera now open.
+2024-11-26 07:04:17,301 - Camera configuration has been adjusted!
+2024-11-26 07:04:17,302 - Configuration successful!
+2024-11-26 07:04:17,431 - Camera started
+2024-11-26 07:04:19,501 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:04:19,501 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:04:21,365 - Wood counted: 1 for wood piece Death_knot_239_57 with defect Knot Missing
+2024-11-26 07:04:26,019 - 127.0.0.1 - - [26/Nov/2024 07:04:26] "GET / HTTP/1.1" 200 -
+2024-11-26 07:04:27,083 - Wood counted: 2 for wood piece Live_knot_89_149 with defect Marrow
+2024-11-26 07:04:27,084 - Wood counted: 3 for wood piece Death_knot_100_67 with defect Knot Missing
+2024-11-26 07:04:27,084 - Wood counted: 4 for wood piece Crack_101_67 with defect Dead Knot
+2024-11-26 07:04:31,931 - Wood counted: 5 for wood piece Live_knot_46_57 with defect Marrow
+2024-11-26 07:04:31,932 - Wood counted: 6 for wood piece Live_knot_61_159 with defect Marrow
+2024-11-26 07:04:48,366 - Wood counted: 7 for wood piece Live_knot_155_137 with defect Marrow
+2024-11-26 07:04:52,957 - Wood counted: 8 for wood piece Live_knot_107_138 with defect Marrow
+2024-11-26 07:04:52,958 - Wood counted: 9 for wood piece Live_knot_100_28 with defect Marrow
+2024-11-26 07:04:52,959 - Wood counted: 10 for wood piece Live_knot_82_143 with defect Marrow
+2024-11-26 07:04:52,960 - Wood counted: 11 for wood piece Crack_103_29 with defect Dead Knot
+2024-11-26 07:04:55,690 - Camera stopped
+2024-11-26 07:04:55,893 - Camera closed successfully.
+2024-11-26 07:07:20,819 - Initialization successful.
+2024-11-26 07:07:20,819 - Camera now open.
+2024-11-26 07:07:20,821 - Camera configuration has been adjusted!
+2024-11-26 07:07:20,823 - Configuration successful!
+2024-11-26 07:07:20,955 - Camera started
+2024-11-26 07:07:22,947 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:07:22,947 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:07:27,564 - 127.0.0.1 - - [26/Nov/2024 07:07:27] "GET / HTTP/1.1" 200 -
+2024-11-26 07:07:32,310 - Wood counted: 1 for wood piece Crack_177_106 with defect Dead Knot
+2024-11-26 07:07:37,764 - Wood counted: 2 for wood piece Death_knot_207_162 with defect Knot Missing
+2024-11-26 07:07:43,281 - Wood counted: 3 for wood piece Death_knot_123_173 with defect Knot Missing
+2024-11-26 07:07:55,850 - Camera stopped
+2024-11-26 07:07:56,052 - Camera closed successfully.
+2024-11-26 07:08:36,244 - Initialization successful.
+2024-11-26 07:08:36,245 - Camera now open.
+2024-11-26 07:08:36,247 - Camera configuration has been adjusted!
+2024-11-26 07:08:36,249 - Configuration successful!
+2024-11-26 07:08:36,378 - Camera started
+2024-11-26 07:08:38,228 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:08:38,228 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:09:06,827 - Camera stopped
+2024-11-26 07:09:07,030 - Camera closed successfully.
+2024-11-26 07:09:34,508 - Initialization successful.
+2024-11-26 07:09:34,509 - Camera now open.
+2024-11-26 07:09:34,511 - Camera configuration has been adjusted!
+2024-11-26 07:09:34,513 - Configuration successful!
+2024-11-26 07:09:34,645 - Camera started
+2024-11-26 07:09:37,035 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.6:8080
+2024-11-26 07:09:37,035 - [33mPress CTRL+C to quit[0m
+2024-11-26 07:09:39,949 - 127.0.0.1 - - [26/Nov/2024 07:09:39] "GET / HTTP/1.1" 200 -
+2024-11-26 07:09:43,294 - Wood counted: 1 for wood piece overgrown_369_12 with defect Resin
+2024-11-26 07:09:43,295 - Wood counted: 2 for wood piece Death_knot_76_164 with defect Knot Missing
+2024-11-26 07:10:00,205 - Wood counted: 3 for wood piece Crack_188_171 with defect Dead Knot
+2024-11-26 07:10:00,205 - Wood counted: 4 for wood piece Death_knot_191_171 with defect Knot Missing
+2024-11-26 07:10:16,737 - Wood counted: 5 for wood piece Live_knot_52_117 with defect Marrow
+2024-11-26 07:10:16,738 - Wood counted: 6 for wood piece Death_knot_52_116 with defect Knot Missing
+2024-11-26 07:11:08,826 - Wood counted: 7 for wood piece Death_knot_41_9 with defect Knot Missing
+2024-11-26 07:11:08,827 - Wood counted: 8 for wood piece Crack_400_100 with defect Dead Knot
+2024-11-26 07:11:13,485 - Wood counted: 9 for wood piece Crack_403_100 with defect Dead Knot
+2024-11-26 07:11:13,486 - Wood counted: 10 for wood piece Blue_stain_217_13 with defect Crack
+2024-11-26 07:11:13,486 - Wood counted: 11 for wood piece Crack_217_13 with defect Dead Knot
+2024-11-26 07:11:26,137 - Wood counted: 12 for wood piece Crack_41_7 with defect Dead Knot
+2024-11-26 07:11:26,138 - Wood counted: 13 for wood piece Death_knot_41_7 with defect Knot Missing
+2024-11-26 07:11:26,143 - Wood counted: 14 for wood piece Knot_missing_41_7 with defect Knot with Crack
+2024-11-26 07:11:35,951 - Wood counted: 15 for wood piece Live_knot_43_19 with defect Marrow
+2024-11-26 07:11:35,951 - Wood counted: 16 for wood piece Crack_43_19 with defect Dead Knot
+2024-11-26 07:11:35,952 - Wood counted: 17 for wood piece knot_with_crack_44_19 with defect Live Knot
+2024-11-26 07:11:41,443 - Wood counted: 18 for wood piece Crack_394_100 with defect Dead Knot
+2024-11-26 07:11:45,197 - Wood counted: 19 for wood piece Death_knot_240_57 with defect Knot Missing
+2024-11-26 07:11:50,074 - Wood counted: 20 for wood piece Death_knot_241_57 with defect Knot Missing
+2024-11-26 07:12:14,024 - Wood counted: 21 for wood piece Live_knot_83_39 with defect Marrow
+2024-11-26 07:12:20,039 - Wood counted: 22 for wood piece Live_knot_139_28 with defect Marrow
+2024-11-26 07:12:20,040 - Wood counted: 23 for wood piece Death_knot_139_28 with defect Knot Missing
+2024-11-26 07:12:20,042 - Wood counted: 24 for wood piece Crack_410_99 with defect Dead Knot
+2024-11-26 07:12:23,788 - Wood counted: 25 for wood piece Live_knot_141_61 with defect Marrow
+2024-11-26 07:12:23,788 - Wood counted: 26 for wood piece knot_with_crack_379_112 with defect Live Knot
+2024-11-26 07:12:28,467 - Wood counted: 27 for wood piece Live_knot_160_57 with defect Marrow
+2024-11-26 07:12:28,469 - Wood counted: 28 for wood piece Death_knot_160_57 with defect Knot Missing
+2024-11-26 07:12:33,152 - Wood counted: 29 for wood piece Live_knot_221_66 with defect Marrow
+2024-11-26 07:12:33,153 - Wood counted: 30 for wood piece Death_knot_221_66 with defect Knot Missing
+2024-11-26 07:12:33,154 - Wood counted: 31 for wood piece Crack_227_7 with defect Dead Knot
+2024-11-26 07:12:33,155 - Wood counted: 32 for wood piece Death_knot_228_7 with defect Knot Missing
+2024-11-26 07:12:33,156 - Wood counted: 33 for wood piece overgrown_227_7 with defect Resin
+2024-11-26 07:12:37,832 - Wood counted: 34 for wood piece Live_knot_91_41 with defect Marrow
+2024-11-26 07:12:37,833 - Wood counted: 35 for wood piece Death_knot_91_42 with defect Knot Missing
+2024-11-26 07:12:37,833 - Wood counted: 36 for wood piece Crack_88_42 with defect Dead Knot
+2024-11-26 07:12:37,833 - Wood counted: 37 for wood piece Crack_398_98 with defect Dead Knot
+2024-11-26 07:12:41,621 - Wood counted: 38 for wood piece Live_knot_113_53 with defect Marrow
+2024-11-26 07:12:41,622 - Wood counted: 39 for wood piece Crack_110_55 with defect Dead Knot
+2024-11-26 07:12:41,622 - Wood counted: 40 for wood piece Death_knot_112_53 with defect Knot Missing
+2024-11-26 07:12:45,346 - Wood counted: 41 for wood piece Live_knot_118_58 with defect Marrow
+2024-11-26 07:12:45,347 - Wood counted: 42 for wood piece Death_knot_119_58 with defect Knot Missing
+2024-11-26 07:12:51,201 - Wood counted: 43 for wood piece Death_knot_114_47 with defect Knot Missing
+2024-11-26 07:12:51,201 - Wood counted: 44 for wood piece Live_knot_114_48 with defect Marrow
+2024-11-26 07:12:56,012 - Wood counted: 45 for wood piece Crack_239_57 with defect Dead Knot
+2024-11-26 07:12:56,012 - Wood counted: 46 for wood piece Crack_118_39 with defect Dead Knot
+2024-11-26 07:12:56,013 - Wood counted: 47 for wood piece Death_knot_118_38 with defect Knot Missing
+2024-11-26 07:12:56,013 - Wood counted: 48 for wood piece Live_knot_118_38 with defect Marrow
+2024-11-26 07:12:56,013 - Wood counted: 49 for wood piece overgrown_119_39 with defect Resin
+2024-11-26 07:13:03,259 - Camera stopped
+2024-11-26 07:13:03,468 - Camera closed successfully.
